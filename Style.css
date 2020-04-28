@@ -1,3 +1,13 @@
-.test {
+#titre {
     color:red;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    
+
+}
+body{
+    background-image: url("https://i.pinimg.com/originals/3c/7a/fc/3c7afc1b68c0f8cc367dd9d0f1f383de.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
 }
